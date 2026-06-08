@@ -15,7 +15,7 @@ for turtle_number in range(0, 6):
     new_turtle.color(colors[turtle_number])
     new_turtle.goto(x=-230, y=y_axis[turtle_number])
     all_turtles.append(new_turtle)
-
+# user input colour
 if user_bet:
     is_race_on = True
 
