@@ -32,3 +32,4 @@ while is_race_on:
         turtle.forward(rand_distance)
 
 screen.exitonclick()
+# made by piyush Soni 
