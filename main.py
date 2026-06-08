@@ -18,7 +18,7 @@ for turtle_number in range(0, 6):
 # user input colour
 if user_bet:
     is_race_on = True
-
+# race start
 while is_race_on:
     for turtle in all_turtles:
         if turtle.xcor() > 230:
