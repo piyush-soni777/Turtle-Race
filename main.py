@@ -10,6 +10,7 @@ colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 y_axis = [-100, -60, -20, 20, 60, 100]
 all_turtles = []
 
+
 for turtle_number in range(0, 6):
     new_turtle = Turtle(shape="turtle")
     new_turtle.penup()
