@@ -1,6 +1,6 @@
 # Instances, State and Higher Order Functions.
 ## Concepts Practised.
-- Python Higher Order Functions & Event Listeners.
+_- Python Higher Order Functions & Event Listeners._
 - Object State and Instances.
 - The Turtle Coordinate System.
 ## Turtle Race.
